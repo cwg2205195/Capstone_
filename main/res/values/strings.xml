@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CapStone</string>
+    <string name="login_promp">欢迎登录患病看护系统</string>
+    <string name="btn_signIn">登录</string>
+    <string name="btn_signUp">注册</string>
+    <string name="uname_field">用户名：</string>
+    <string name="pwd_field">密码：</string>
+    <string name="name_field">姓名：</string>
+    <string name="dep_field">科室：</string>
+    <string name="phone_field">联系方式：</string>
+    <string name="title_field">职称：</string>
+    <string name="addr_field">住址：</string>
+    <string name="btn_patineMgr">病人信息管理</string>
+    <string name="btn_selfEdit">个人信息设置</string>
+    <string name="btn_patines">我的病人</string>
+    <string name="btn_myjobs">我的工作安排</string>
+    <string name="btn_add">添加</string>
+    <string name="lb_content">护理内容：</string>
+    <string name="lb_settime">设置时间：</string>
+    <string name="lb_date">日期：</string>
+    <string name="lb_time">时间段：</string>
+    <string name="btn_selworker">选择护工：</string>
+    <string name="doctor">医生</string>
+    <string name="nurse">护工</string>
+    <string name="age">年龄</string>
+    <string name="desc">患病详情</string>
+    <string name="sex">性别</string>
+    <string name="add">添加</string>
+    <string name="ret">返回</string>
+    <string name="details">详情</string>
+    <string name="profile_prompt">设置个人信息</string>
+    <string name="old_passwd">旧密码 :</string>
+    <string name="new_passwd">新密码 :</string>
+    <string name="new_passwdCK">确定新密码 :</string>
+</resources>
